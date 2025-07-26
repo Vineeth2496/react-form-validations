@@ -17,8 +17,8 @@ function App() {
       <SignInForm />
       <SignUpForm />
       <FeedbackForm />
-      {/* <SearchBar onSearch={handleSearch} /> */}
-      {/* <SocialLogin /> */}
+      <SearchBar onSearch={handleSearch} />
+      <SocialLogin />
     </div>
   );
 }
