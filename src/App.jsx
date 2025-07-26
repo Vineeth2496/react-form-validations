@@ -13,9 +13,10 @@ function App() {
 
   return (
     <div>
+
       <SignInForm />
-      {/* <SignUpForm /> */}
-      {/* <FeedbackForm /> */}
+      <SignUpForm />
+      <FeedbackForm />
       {/* <SearchBar onSearch={handleSearch} /> */}
       {/* <SocialLogin /> */}
     </div>
